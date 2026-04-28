@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-## Hi, I am ABR AKA Rahim 🐌✨<br><br>Always learning, growing, and trying to build something meaningful  🌸✨
+## Hi, I am Rahim AKA ABR 🐌✨<br><br>Always learning, growing, and trying to build something meaningful  🌸✨
 
 
 ## 🌐 Socials:
