@@ -1,7 +1,8 @@
 
 
 ## 👋🏼 Hello!
-I'm ABR. I always try to build something meaningful and fun to enjoy and help others. 🌸
+I'm ABR. I'm a Full-Stack Developer. 🌸 <br>
+Always trying to build something meaningful to help others and have fun doing it🪄
 
 
  ### 🌐 Socials
