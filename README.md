@@ -4,8 +4,8 @@
 I'm ABR. I'm a Full-Stack Developer. 🌸 <br>
 Always trying to build something meaningful to help others and have fun doing it🪄
 
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
+<img src="https://shields.io" alt="NodeJS" />
+<img src="https://shields.io" alt="Express" />
 
 
  ### 🌐 Socials
